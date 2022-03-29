@@ -29,7 +29,7 @@ namespace FormMarzo22
         {
             Class1.Funcion1();
             MessageBox.Show( "hola de nuevo");
-            
+            MessageBox.Show("Hola 2");
         }
     }
 }
