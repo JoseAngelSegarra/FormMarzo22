@@ -25,6 +25,7 @@ namespace FormMarzo22
         private void button2_Click(object sender, EventArgs e)
         {
             Class1.Funcion1();
+            MessageBox.Show( Class1.cadena);
         }
     }
 }
