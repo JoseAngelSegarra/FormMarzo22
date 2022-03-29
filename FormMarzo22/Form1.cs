@@ -20,7 +20,7 @@ namespace FormMarzo22
         private void button1_Click(object sender, EventArgs e)
         {
            MessageBox.Show( Class1.cadena);
-            MessageBox.Show(Class1.cadena);
+           MessageBox.Show(Class1.cadena);
 
         }
 
@@ -28,6 +28,7 @@ namespace FormMarzo22
         {
             Class1.Funcion1();
             MessageBox.Show( "hola de nuevo");
+            MessageBox.Show("hola de nuevo");
         }
     }
 }
