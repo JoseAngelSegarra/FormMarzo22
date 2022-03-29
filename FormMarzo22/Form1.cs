@@ -21,6 +21,7 @@ namespace FormMarzo22
         {
            MessageBox.Show( Class1.cadena);
            MessageBox.Show(Class1.cadena);
+            
 
         }
 
