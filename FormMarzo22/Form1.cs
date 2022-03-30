@@ -27,7 +27,7 @@ namespace FormMarzo22
         private void button2_Click(object sender, EventArgs e)
         {
             Class1.Funcion1();
-            MessageBox.Show( "adios3");
+            MessageBox.Show( "adios35");
             MessageBox.Show("Hola 2");
         }
     }
