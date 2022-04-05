@@ -30,6 +30,7 @@ namespace FormMarzo22
             MessageBox.Show( "adios35");
             MessageBox.Show("Hola 27");
             //a ver si esto funciona bien
+
         }
     }
 }
