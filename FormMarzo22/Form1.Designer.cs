@@ -57,7 +57,7 @@ namespace FormMarzo22
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(507, 231);
+            this.checkBox1.Location = new System.Drawing.Point(215, 246);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(80, 17);
             this.checkBox1.TabIndex = 2;
