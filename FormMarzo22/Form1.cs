@@ -20,14 +20,14 @@ namespace FormMarzo22
         private void button1_Click(object sender, EventArgs e)
         {
            MessageBox.Show( Class1.cadena);
-            
+            //comentario añadido
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Class1.Funcion1();
-            MessageBox.Show( "adios35");
+            MessageBox.Show( "zsdfg");
             //a ver como todo lo demás va
         }
     }
