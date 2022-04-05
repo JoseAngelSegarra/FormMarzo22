@@ -28,7 +28,7 @@ namespace FormMarzo22
         {
             Class1.Funcion1();
             MessageBox.Show( "adios35");
-            MessageBox.Show("Hola 22");
+            MessageBox.Show("Hola 229");
             //a ver si esto funciona bien
         }
     }
